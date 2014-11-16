@@ -1,4 +1,5 @@
 .git
 bundle/*
 \*~
+change_origin.sh
 
