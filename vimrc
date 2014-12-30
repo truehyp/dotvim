@@ -7,6 +7,8 @@ set showmatch
 set matchtime=5
 set ignorecase
 set nobackup
+"打开文件时不折叠
+set foldlevel=99
 set foldmethod=syntax
 execute pathogen#infect()
 syntax on
